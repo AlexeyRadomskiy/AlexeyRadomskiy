@@ -4,7 +4,14 @@
 - I’m looking to collaborate with iOs developers
 
 
-- I already know:
-		Git and GitHub (CVCS and DVCS)
+> I already know:
+>>  * Principles of OOP
+>>  * Human Interface Guidelines
+>>  * Git and GitHub (CVCS and DVCS)
+>>  * Foundation
+>>  * InterfaceBuilder
+>>  * Autolayout
+>>  * UIKit
+>>  * MVC
     
 - You can reach me by email: alexeyradomskiy98@gmail.com
