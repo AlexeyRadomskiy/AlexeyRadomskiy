@@ -7,6 +7,7 @@
 > I already know:
 >>  * Principles of OOP
 >>  * Human Interface Guidelines
+>>  * View Controller Lifecycle
 >>  * Git and GitHub (CVCS and DVCS)
 >>  * Foundation
 >>  * InterfaceBuilder
