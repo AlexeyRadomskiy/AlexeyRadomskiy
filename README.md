@@ -13,6 +13,7 @@
 >>  * InterfaceBuilder
 >>  * Autolayout
 >>  * UIKit
+>>  * CocoaPods
 >>  * MVC
     
 - You can reach me by email: alexeyradomskiy98@gmail.com
