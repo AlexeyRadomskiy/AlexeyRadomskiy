@@ -14,6 +14,12 @@
 >>  * Autolayout
 >>  * UIKit
 >>  * CocoaPods
+>>  * API URLSession
+>>  * JSON
+>>  * Alamofire
+>>  * Caching images
+>>  * User Defaults
+>>  * Data storage in .plist
 >>  * MVC
     
 - You can reach me by email: alexeyradomskiy98@gmail.com
