@@ -14,7 +14,7 @@
 >>  * Autolayout
 >>  * UIKit
 >>  * CocoaPods
->>  * API URLSession
+>>  * REST API
 >>  * JSON
 >>  * Alamofire
 >>  * Caching images
