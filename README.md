@@ -15,6 +15,7 @@
 >>  * UIKit
 >>  * CocoaPods
 >>  * REST API
+>>  * URLSession
 >>  * JSON
 >>  * Alamofire
 >>  * Caching images
