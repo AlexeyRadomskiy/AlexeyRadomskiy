@@ -24,5 +24,7 @@
 >>  * MVC
 >>  * CoreData
 >>  * Realm
+>>  *
+>>  *
     
 - You can reach me by email: alexeyradomskiy98@gmail.com
