@@ -30,5 +30,7 @@
 >>  * MVP
 >>  * MVVM
 >>  * SwiftUI
+>>  * SOLID
+>>  * VIPER
     
 - You can reach me by email: alexeyradomskiy98@gmail.com
