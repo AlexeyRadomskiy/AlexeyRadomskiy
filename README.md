@@ -13,8 +13,8 @@
 >>  * Data Storage: UserDefaults, CoreData, Realm
 >>  * Architectures: MVC, MVP, MVVM, VIPER, Clean Swift
 >>  * Addiction managers: CocoaPods
->>  * Тестирование: TDD, Unit Testing / UI Testing
->>  * Дизайн: Sketch
->>  * Знание пакета Microsoft Office
+>>  * Testing: TDD, Unit Testing / UI Testing
+>>  * Design: Sketch
+>>  * MS Office
     
 - You can reach me by email: alexeyradomskiy98@gmail.com
