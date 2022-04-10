@@ -6,31 +6,15 @@
 
 > I already know:
 >>  * Principles of OOP
->>  * Human Interface Guidelines
->>  * View Controller Lifecycle
->>  * Git and GitHub (CVCS and DVCS)
->>  * Foundation
->>  * InterfaceBuilder
->>  * Autolayout
->>  * UIKit
->>  * CocoaPods
->>  * REST API
->>  * URLSession
->>  * JSON
->>  * Alamofire
->>  * Caching images
->>  * User Defaults
->>  * Data storage in .plist
->>  * MVC
->>  * CoreData
->>  * Realm
->>  * Async-Await
->>  * Actors
->>  * Memory Basics
->>  * MVP
->>  * MVVM
->>  * SwiftUI
->>  * SOLID
->>  * VIPER
+>>  * Языки программирования: Swift (1)
+>>  * Технологии: UIKit, SwiftUI, Autolayout, GIT, GCD, SOLID
+>>  * Работа с сетью: URLSession, Alamofire
+>>  * Анимации: CoreAnimation, Spring
+>>  * Хранение данных: UserDefaults, CoreData, Realm
+>>  * Архитектуры: MVC, MVP, MVVM, VIPER, Clean Swift
+>>  * Менеджеры зависимости: CocoaPods
+>>  * Тестирование: TDD, Unit Testing / UI Testing
+>>  * Дизайн: Sketch
+>>  * Знание пакета Microsoft Office
     
 - You can reach me by email: alexeyradomskiy98@gmail.com
