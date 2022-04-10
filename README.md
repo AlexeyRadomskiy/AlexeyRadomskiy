@@ -6,10 +6,10 @@
 
 > I already know:
 >>  * Principles of OOP
->>  * Языки программирования: Swift (1)
->>  * Технологии: UIKit, SwiftUI, Autolayout, GIT, GCD, SOLID
->>  * Работа с сетью: URLSession, Alamofire
->>  * Анимации: CoreAnimation, Spring
+>>  * Swift (1)
+>>  * Technology: UIKit, SwiftUI, Autolayout, GIT, GCD, SOLID
+>>  * Networking: URLSession, Alamofire
+>>  * Animations: CoreAnimation, Spring
 >>  * Хранение данных: UserDefaults, CoreData, Realm
 >>  * Архитектуры: MVC, MVP, MVVM, VIPER, Clean Swift
 >>  * Менеджеры зависимости: CocoaPods
