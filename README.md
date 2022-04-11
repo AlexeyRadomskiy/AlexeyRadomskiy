@@ -4,6 +4,7 @@
 - Understanding of creating readable and maintainable code
 - Understand the app lifecycle
 - Work closely with other developers
+- Have good analytical skills, easy to learn
 
 
 > I already know:
