@@ -5,6 +5,7 @@
 - Understand the app lifecycle
 - Work closely with other developers
 - Have good analytical skills, easy to learn
+- Have a desire to learn new technologies
 
 
 > I already know:
