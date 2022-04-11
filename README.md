@@ -3,6 +3,7 @@
 - Provide support for my own iOS application
 - Understanding of creating readable and maintainable code
 - Understand the app lifecycle
+- Work closely with other developers
 
 
 > I already know:
