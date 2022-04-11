@@ -1,6 +1,6 @@
 - iOS Developer with practical experience, a great desire and ambition to develop in this field
 - I have experience in creating an application with user-friendly and intuitive interface
-- I’m currently learning Swift
+- Provide support for my own iOS application
 - I’m looking to collaborate with iOs developers
 
 
