@@ -1,5 +1,5 @@
 - iOS Developer with practical experience, a great desire and ambition to develop in this field
-- I’m interested in all active entertainment
+- I have experience in creating an application with user-friendly and intuitive interface
 - I’m currently learning Swift
 - I’m looking to collaborate with iOs developers
 
