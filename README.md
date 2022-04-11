@@ -2,6 +2,7 @@
 - I have experience in creating an application with user-friendly and intuitive interface
 - Provide support for my own iOS application
 - Understanding of creating readable and maintainable code
+- Understand the app lifecycle
 
 
 > I already know:
