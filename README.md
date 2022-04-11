@@ -1,4 +1,4 @@
-- Hi, I’m @AlexeyRadomskiy
+- iOS Developer with practical experience, a great desire and ambition to develop in this field
 - I’m interested in all active entertainment
 - I’m currently learning Swift
 - I’m looking to collaborate with iOs developers
