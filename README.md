@@ -7,6 +7,9 @@
 - Have good analytical skills, easy to learn
 - Have a desire to learn new technologies
 
+Projects:
+
+
 
 > I already know:
 >>  * Principles of OOP
