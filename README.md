@@ -8,8 +8,7 @@
 - Have a desire to learn new technologies
 
 Projects:
-[MoneyBox](ttps://github.com/AlexeyRadomskiy/MoneyBox.git) - piggy bank for your purposes (teamwork)
-
+* [MoneyBox](https://github.com/AlexeyRadomskiy/MoneyBox.git) - piggy bank for your purposes (teamwork)
 
 
 > I already know:
