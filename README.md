@@ -12,8 +12,8 @@ Projects:
 
 
 > I already know:
->>  * Principles of OOP
 >>  * Swift (1)
+>>  * Principles of OOP
 >>  * Technology: UIKit, SwiftUI, Autolayout, GIT, GCD, SOLID
 >>  * Networking: URLSession, Alamofire
 >>  * Animations: CoreAnimation, Spring
