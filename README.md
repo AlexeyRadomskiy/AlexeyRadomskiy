@@ -9,6 +9,7 @@
 
 Projects:
 * [MoneyBox](https://github.com/AlexeyRadomskiy/MoneyBox.git) - piggy bank for your purposes (teamwork)
+* [Proslushkashow](https://github.com/AlexeyRadomskiy/MyMoodLogoSwiftUI.git) - animated logo of my TikTok chanel using SwiftUI
 
 
 > I already know:
