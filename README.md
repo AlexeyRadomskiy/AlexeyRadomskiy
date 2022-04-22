@@ -18,7 +18,7 @@ Projects:
 >>  * Technology: UIKit, SwiftUI, Autolayout, GIT, GCD, SOLID
 >>  * Networking: URLSession, Alamofire
 >>  * Animations: CoreAnimation, Spring
->>  * Data Storage: UserDefaults, CoreData, Realm
+>>  * Data Storage: UserDefaults, CoreData, Realm, Firebase
 >>  * Architectures: MVC, MVP, MVVM, VIPER, Clean Swift
 >>  * Addiction managers: CocoaPods
 >>  * Testing: TDD, Unit Testing / UI Testing
