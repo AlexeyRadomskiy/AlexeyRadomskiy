@@ -21,7 +21,7 @@ Projects:
 >>  * Animations: CoreAnimation, Spring
 >>  * Data Storage: UserDefaults, CoreData, Realm, Firebase
 >>  * Architectures: MVC, MVP, MVVM, VIPER, Clean Swift
->>  * Addiction managers: CocoaPods
+>>  * Addiction managers: CocoaPods, Carthage
 >>  * Testing: TDD, Unit Testing / UI Testing
 >>  * Design: Sketch
 >>  * MS Office
