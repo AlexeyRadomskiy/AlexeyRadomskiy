@@ -17,11 +17,11 @@ Projects:
 > I already know:
 >>  * Swift (1)
 >>  * Principles of OOP
->>  * Technology: UIKit, SwiftUI, Autolayout, GIT, GCD, SOLID
+>>  * Technology: UIKit, SwiftUI, Autolayout, Xib, GIT, GCD, NSOperation, SOLID, DRY, KISS, YAGNI
 >>  * Networking: URLSession, Alamofire
 >>  * Animations: CoreAnimation, Spring
 >>  * Data Storage: UserDefaults, CoreData, Realm, Firebase
->>  * Architectures: MVC, MVP, MVVM, VIPER, Clean Swift
+>>  * Architectures: MVC, MVP, MVVM, VIPER, Clean Architecture
 >>  * Addiction managers: CocoaPods, Carthage
 >>  * Testing: TDD, Unit Testing / UI Testing
 >>  * Design: Sketch
