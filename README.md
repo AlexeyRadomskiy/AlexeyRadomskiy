@@ -8,7 +8,7 @@
 - Have a desire to learn new technologies
 
 Projects:
-* [VkNewsFeed(https://github.com/AlexeyRadomskiy/VkNewsFeed/tree/main)
+* [VkNewsFeed](https://github.com/AlexeyRadomskiy/VkNewsFeed/tree/main)
 * [Uber](https://github.com/AlexeyRadomskiy/Uber.git) - clone of Uber taxi (in the midst of)
 * [MoneyBox](https://github.com/AlexeyRadomskiy/MoneyBox.git) - piggy bank for your purposes (teamwork)
 * [Proslushkashow](https://github.com/AlexeyRadomskiy/MyMoodLogoSwiftUI.git) - animated logo of my TikTok chanel using SwiftUI
