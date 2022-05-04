@@ -17,7 +17,7 @@ Projects:
 > I already know:
 >>  * Swift (1)
 >>  * Principles of OOP
->>  * Technology: UIKit, SwiftUI, Autolayout, Xib, GIT, GCD, NSOperation, SOLID, DRY, KISS, YAGNI
+>>  * Technology: UIKit, SwiftUI, Autolayout, Xib, GIT, GCD, NSOperation, SOLID, DRY, KISS, YAGNI 
 >>  * Networking: URLSession, Alamofire
 >>  * Animations: CoreAnimation, Spring
 >>  * Data Storage: UserDefaults, CoreData, Realm, Firebase
