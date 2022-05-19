@@ -24,7 +24,7 @@ Projects:
 >>  * Data Storage: UserDefaults, CoreData, Realm, Firebase
 >>  * Architectures: MVC, MVP, MVVM, VIPER, Clean Architecture
 >>  * Addiction managers: CocoaPods, Carthage
->>  * Testing: TDD, Unit Testing / UI Testing
+>>  * Testing: TDD, Unit Testing
 >>  * Design: Sketch
 >>  * MS Office
     
