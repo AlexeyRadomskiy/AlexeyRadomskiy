@@ -10,22 +10,20 @@
 Projects:
 * [FoodCollectionTestApp](https://github.com/AlexeyRadomskiy/FoodCollectionTestApp.git) - iOS Developer test task
 * [VkNewsFeed](https://github.com/AlexeyRadomskiy/VkNewsFeed/tree/main) - custom Vk Newsfeed API
-* [Uber](https://github.com/AlexeyRadomskiy/Uber.git) - clone of Uber taxi (in the midst of)
 * [MoneyBox](https://github.com/AlexeyRadomskiy/MoneyBox.git) - piggy bank for your purposes (teamwork)
 * [Proslushkashow](https://github.com/AlexeyRadomskiy/MyMoodLogoSwiftUI.git) - animated logo of my TikTok chanel using SwiftUI
 
 
 > I already know:
 >>  * Swift (1)
->>  * Principles of OOP
+>>  * Principles of OOP, POP
 >>  * Technology: UIKit, SwiftUI, Autolayout, Xib, GIT, GCD, NSOperation, SOLID, DRY, KISS, YAGNI 
 >>  * Networking: URLSession, Alamofire
 >>  * Animations: CoreAnimation, Spring
 >>  * Data Storage: UserDefaults, CoreData, Realm, Firebase
->>  * Architectures: MVC, MVP, MVVM, VIPER, Clean Architecture
+>>  * Architectures: VIPER, MVC, Clean Architecture, MVP, MVVM, 
 >>  * Addiction managers: CocoaPods, Carthage
 >>  * Testing: TDD, Unit Testing
 >>  * Design: Sketch
->>  * MS Office
     
 - You can reach me by email: alexeyradomskiy98@gmail.com
