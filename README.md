@@ -7,7 +7,7 @@
 - Have a desire to learn new technologies
 
 Projects:
-* [Messenger] (https://github.com/AlexeyRadomskiy/Messenger.git) - iOS Developer test task
+* [Messenger](https://github.com/AlexeyRadomskiy/Messenger.git) - iOS Developer test task
 * [FoodCollectionTestApp](https://github.com/AlexeyRadomskiy/FoodCollectionTestApp.git) - iOS Developer test task
 * [VkNewsFeed](https://github.com/AlexeyRadomskiy/VkNewsFeed/tree/main) - custom Vk Newsfeed API
 * [MoneyBox](https://github.com/AlexeyRadomskiy/MoneyBox.git) - piggy bank for your purposes (teamwork)
